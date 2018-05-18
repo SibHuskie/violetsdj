@@ -1,0 +1,2 @@
+# violetsdj
+Discord Bot
